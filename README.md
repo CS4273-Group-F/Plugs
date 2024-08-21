@@ -14,6 +14,14 @@ EVs in the state of Oklahoma.
 
 
 # Log
+
+## Aug 21 2024
+Our priorities right now are 
+
+1. Getting ready for the presentation
+2. Assigning roles (for Kanban and presentation)
+3. Finish UI design
+
 ## Aug 19 2024
 Discussed General plan for the project.
 Might use React Native for frontend.
