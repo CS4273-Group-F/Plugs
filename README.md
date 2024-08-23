@@ -16,7 +16,7 @@ EVs in the state of Oklahoma.
 # Log
 
 ## Aug 23 2024
-Presentation
+Ticket 1 Domain Understanding Presentation
 
 ## Aug 21 2024
 Our priorities right now are 
