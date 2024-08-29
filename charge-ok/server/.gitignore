@@ -1,0 +1,11 @@
+# Node modules directory
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
