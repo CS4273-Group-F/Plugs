@@ -14,6 +14,9 @@ Navigation System For EV Vehicles in Oklahoma
 
 # Log
 
+## Aug 29 2024
+Built 2 React apps and a svelt app for Ticket 2
+
 ## Aug 28 2024
 
 Decided on using afdc API for station info
