@@ -14,6 +14,9 @@ Navigation System For EV Vehicles in Oklahoma
 
 # Log
 
+## Aug 31 2024
+Adding Google API
+
 ## Aug 29 2024
 Built 2 React apps and a svelt app for Ticket 2
 
