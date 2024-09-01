@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import GoogleMap from "./GoogleMap";
 
 function App() {
   const [users, setUsers] = useState([]);
@@ -6,14 +7,6 @@ function App() {
   useEffect(() => {
     // Fetch data from the backend API
 
-    // fetch("/api/users")
-
-    // fetch("http://localhost:5000/api/users")
-    //   .then((response) => response.json())
-    //   .then((data) => setUsers(data))
-    //   .catch((error) => console.error("Error fetching users:", error));
-
-    // fetch("/api/users")
     fetch("http://localhost:5000/api/users")
       .then((response) => {
         console.log("Response:", response); // Log the response object
@@ -36,6 +29,10 @@ function App() {
           <li>No users found</li>
         )}
       </ul>
+
+      <div>test</div>
+
+      <GoogleMap />
     </div>
   );
 }

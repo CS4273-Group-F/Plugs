@@ -1,13 +1,9 @@
-// TODO you need to request for this
-// GET /api/alt-fuel-stations/v1.json?api_key=YOUR_API_KEY&status=E&fuel_type=ELEC,HY&access=public
-
 require("dotenv").config();
 const axios = require("axios");
 const charger_api_key = process.env.CHARGER_API_KEY;
 
 // Define the base URL for the API
 const baseURL = "https://developer.nrel.gov/api/alt-fuel-stations/v1"; // Replace with the actual base URL
-// const baseURL = "https://developer.nrel.gov/api/alt-fuel-stations/v1.json";
 
 // Define the parameters
 const params = {
