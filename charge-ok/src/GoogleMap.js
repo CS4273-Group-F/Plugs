@@ -13,6 +13,7 @@ function GoogleMap() {
   return (
     <div>
       <iframe
+        title="Google Map"
         width="450"
         height="250"
         frameBorder="0"
