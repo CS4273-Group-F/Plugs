@@ -14,8 +14,8 @@ function GoogleMap() {
     <div>
       <iframe
         title="Google Map"
-        width="450"
-        height="250"
+        width="100%"
+        height="100%"
         frameBorder="0"
         style={{ border: 0 }}
         referrerPolicy="no-referrer-when-downgrade"
